@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp_autocodegrader.A系列其他
+namespace Csharp_autocodegrader.第二次作業
 {
     internal class A0001
     {   
